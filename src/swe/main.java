@@ -27,5 +27,7 @@ public class main {
 
 
         scanner.close();
+
+        System.out.println("Rushil was here");
     }
 }
